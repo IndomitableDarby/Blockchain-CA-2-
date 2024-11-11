@@ -120,8 +120,7 @@ The contract uses OpenZeppelin's libraries for security and access control, ensu
 It is crucial to thoroughly test the contract and consider potential edge cases, such as reentrancy attacks and gas limit issues, before deploying it on the mainnet.
 
 ### Flowchart
-![image](https://github.com/user-attachments/assets/b1554841-d85e-46ea-b797-48dd42f4812a)
-
+![image](https://github.com/user-attachments/assets/b2b55360-853c-478b-a860-df806b644aa6)
 
 ### Conclusion
 This Escrow contract provides a secure and efficient way to manage transactions between buyers and sellers, ensuring that funds are only released when both parties have fulfilled their obligations. The use of OpenZeppelin's libraries enhances security and simplifies the implementation of ownership and pausable functionality.
